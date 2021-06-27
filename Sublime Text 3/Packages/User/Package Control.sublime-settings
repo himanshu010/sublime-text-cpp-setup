@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Bracketeer",
+		"BracketHighlighter",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"Terminus",
+		"WakaTime",
+	],
+}
